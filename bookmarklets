@@ -1,6 +1,6 @@
 bookmarklets:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-THIS IS NOT A BOOKMARKLET:# network_file = 'https://raw.githubusercontent.com/idekerlab/hdsubnetfinder/master/tests/resource/small_network.sif'
+THIS IS NOT A BOOKMARKLET:# network_file = 'https://raw.githubusercontent.com/id/FINDER/master/tests/resource/small_network.sif'
 network_file = 'http://chianti.ucsd.edu/~kono/ci/data/HumanNet.v1.symbol.sif'
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CREDETS:legend7278.
